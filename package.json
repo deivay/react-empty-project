@@ -2,8 +2,8 @@
   "name": "empty-project",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/deivay/reactUdemyProject1.git",
-  "author": "davidpaley <paley@strands.com>",
+  "repository": "https://github.com/deivay/react-empty-project.git",
+  "author": "davidpaley <david.paleyy@gmail.com>",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
